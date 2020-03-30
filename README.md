@@ -26,7 +26,7 @@ getRandomValue = () =>
 ### Installation  
 1. Clone the repository and navigate into the folder.
    ```bash
-   $ git clone https://github.com/rishabhsxn/User_API.git   
+   $ git clone https://github.com/rishabhsxn/Dice_Roller.git   
    ```         
 2. Install the dependencies using npm.     
     ```bash
